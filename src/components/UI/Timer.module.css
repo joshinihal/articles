@@ -1,0 +1,13 @@
+
+.btn-container{
+    font-size: 2vw;
+    text-align: center;
+  }
+  
+.reset-btn{
+  border: 1px solid;
+  padding: 0.5rem 1rem;
+  border-radius: 15px;
+  cursor: pointer;
+  box-shadow: 2px 2px 5px;
+}
