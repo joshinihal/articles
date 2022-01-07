@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Articles display application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This projectshows articles using React, Redux and Axios for requests.
 
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm start`
+
+This will intall all dependencies such as Redux, Redux Toolkit, Axios etc.
 
 ### `npm start`
 
